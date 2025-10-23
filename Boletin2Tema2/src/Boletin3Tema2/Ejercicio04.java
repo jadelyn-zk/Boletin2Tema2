@@ -36,7 +36,7 @@ public class Ejercicio04 {
 			System.out.println("Incorrecto. " + num1 + " + " + num2 + " = " + suma);
 		}
 		
-		
+		//And close the scanner
 		sc.close();
 	}
 
