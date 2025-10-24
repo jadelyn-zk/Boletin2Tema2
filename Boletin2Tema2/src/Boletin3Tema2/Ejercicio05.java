@@ -47,7 +47,7 @@ public class Ejercicio05 {
 		
 	//Finally, print the result
 
-System.out.println("El precio final de tu ticket de tren será de " + precioFinal + " por un viaje de " + distancia + "Km" + );
+System.out.println("El precio final de tu ticket de tren será de " + precioFinal + "€ por un viaje de " + distancia + "Km de distancia y de " + dias + " de estancia");
 	
 		//Close the scanner
 		sc.close();
