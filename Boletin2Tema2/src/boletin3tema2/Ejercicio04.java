@@ -1,4 +1,4 @@
-package Boletin3Tema2;
+package boletin3tema2;
 
 import java.util.Random;
 import java.util.Scanner;
