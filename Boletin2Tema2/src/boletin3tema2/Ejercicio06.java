@@ -49,7 +49,6 @@ public class Ejercicio06 {
 		//Now we print the results
 		System.out.println(" El " + mes +"º mes del año " + año + " tiene " + dias + " días.");
 					
-		
 		//Close the scanner
 		sc.close();
 	}
